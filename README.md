@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Meu nome é Sergio-Lima!
 # 💫 um pouco sobre mim:
-tenho 20 anos de experiência em transmissão de dados e Atualmente sou Analista Funcional em uma Multi-Nacional<br>sou formado em Analise e Desenvolvimento de Software("ADS")desde 2020<br><br>Estudo Tecnologias Frontend<br> Atualmemte Estou participando da turma T-4 na Alura One-Oracle.
+tenho 20 anos de experiência em transmissão de dados e Atualmente sou Analista Funcional em uma Multi-Nacional.<br>Sou formado em Analise e Desenvolvimento de Software("ADS")desde 2020.<br><br>Estudo Tecnologias Frontend<br> Atualmemte Estou participando da turma T-4 na Alura One-Oracle.
 
 
 ## 🌐 Socials:
