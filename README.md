@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Sergio-Lima
+# Meu nome é Sergio-Lima!
 # 💫 um pouco sobre mim:
 Atualmente sou analista Funcional em uma multi-nacional<br>sou formado em Analise e desenvolvimento de software("ADS")<br><br>Estudo Tecnologias Frontend<br> Estou participando da turma T-4 na Aluta One
 
